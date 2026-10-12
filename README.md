@@ -50,6 +50,10 @@ assertiveness
 patience
 empathy
 
+#Proyecto 1 
+
+()
+
 # 📞 Contact
 
 💌 **Email:** mariel.menis[@gmail.com]
