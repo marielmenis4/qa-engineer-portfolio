@@ -50,16 +50,17 @@ assertiveness
 patience
 empathy
 
+# Proyectos
 
 Proyecto Urban Routes
 
 (https://github.com/marielmenis4/qa-project-Urban-Routes-es)
 
-# Proyecto Urban Grocers
+Proyecto Urban Grocers
 
 (https://github.com/marielmenis4/qa-project-Urban-Grocers-app-es)
 
-# Proyecto Pruebas Automatizadas API
+Proyecto Pruebas Automatizadas API
 
 (https://github.com/marielmenis4/api_stand_tests)
 
